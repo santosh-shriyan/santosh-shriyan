@@ -20,7 +20,7 @@ I'm an experienced Computer Vision Engineer with a strong foundation in Python, 
 📌 Projects
 
 * (peAR Tech) Mobile Video to 3D System(Flagship product): End-to-end development of a 3D asset generation pipeline using smartphone video input.<br/>
-* (peAR Tech) Dish Recommender system: A Non-Learning based recommender which utilizes relational weights to create a multi-dimentional map.<br/>
+* (peAR Tech) Dish Recommender system: A Non-Learning based recommender which utilises relational weights to create a multi-dimentional map.<br/>
 * (peAR Tech) Auto Scaling for AWS EC2: Created a custom load buffer sensing auto scaling system Deployed on a t3 micro instance.<br/>
 * (CSIR-CSIO) Vision-based Vehicle Detection and Tracking: A solo research project leveraging Python, OpenCV and machine learning for real-time tracking.<br/>
 
